@@ -153,6 +153,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVQKGQUV
 
+[Parameter1]
+Name=ProjectTitle
+Value=Business Idea PCB
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
