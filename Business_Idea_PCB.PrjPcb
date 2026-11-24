@@ -170,8 +170,117 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVQKGQUV
 
+[Document8]
+DocumentPath=Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Business_Idea_PCB\BOM\Bill of Materials-Business_Idea_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Business_Idea_PCB\NC Drill\Business_Idea_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Business_Idea_PCB\Gerber\Business_Idea_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Business_Idea_PCB\Design Rule Check - Business_Idea_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Business_Idea_PCB\Pick Place\Pick Place for Business_Idea_PCB.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1122,6 +1231,8 @@ Type162=1
 Type163=1
 Type164=1
 Type165=2
+Type166=2
+Type167=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
